@@ -17,19 +17,17 @@ Programming Languages:
  ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
  ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
  ![Python](https://img.icons8.com/color/48/000000/python.png)
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
      
 Frameworks and Libraries: 
 
- ![React](https://img.icons8.com/color/48/000000/react-native.png)
 
 <h3>Connect with me:</h3>
 <p>
  I'm always open to discussing new projects, collaborations, or opportunities. You can reach me through the following channels:
  
-<a href="https://instagram.com/_abhi_navhh_" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhi_navhh_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abhinav-u-212b64286" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav u" height="30" width="40" /></a></p>
+<a href="https://www.instagram.com/d_e.ku" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_e.ku" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adarsh-c-289024333" target="blank" rel="norefferer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav u" height="30" width="40" /></a></p>
 
 <h2>Contributions and Open Source</h2>
 
