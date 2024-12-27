@@ -1,5 +1,5 @@
-#<h1 align="center">Hi 👋, I'm Adarsh C</h1>
-<p align="center">Pursuing btech degree in computer science engineering</p>
+# <h1 align="center">Hi 👋, I'm Adarsh C</h1>
+# <p align="center">Pursuing btech degree in computer science engineering</p>
 
 
 <h2>About Me</h2>
